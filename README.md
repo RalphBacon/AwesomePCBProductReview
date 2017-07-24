@@ -1,5 +1,5 @@
-# AwesomePCBProductReview
-Time for a product review that can help us Arduinites
+# Awesome PCB (ProductReview)
+Time for a product review that can help us Arduinites - see video #91 at https://www.youtube.com/RalphBacon
 
 I've so far resisted the various offers of reviewing products (in exchange for a free sample of said product) but during my vacation three turned up that I thought might merit our attention.
 
